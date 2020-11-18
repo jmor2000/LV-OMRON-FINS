@@ -1,7 +1,10 @@
 # Info
 This is an implementation of the OMRON FINS protocol.
+
 -Labview 2019
+
 -PLC OMRON CP1L
+
 -PLC OMRON CX1 Programmer 9.7
 
 # Examples

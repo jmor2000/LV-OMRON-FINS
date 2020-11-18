@@ -15,9 +15,9 @@ The example 1 (as seen in the image below) defines a means to:
 The device (e.g. PLC) will need to be be configure to accept FINS communition.
 Please take note of the FINS node address (SD1)
 
-![alt text](https://github.com/jmor2000/LV-OMRON-FINS/blob/main/IMGs/PLC%FINS%101.JPG?raw=true)
+![alt text](https://github.com/jmor2000/LV-OMRON-FINS/blob/main/IMGs/PLC%20FINS%101.JPG?raw=true)
 
-![alt text](https://github.com/jmor2000/LV-OMRON-FINS/blob/main/IMGs/PLC%FINS%201.JPG?raw=true)
+![alt text](https://github.com/jmor2000/LV-OMRON-FINS/blob/main/IMGs/PLC%20FINS%201.JPG?raw=true)
 
 # Referencecs:
 - Key to FINS communication, is identifying Destination Addresses (DA1) and Source Addresses (SA1)

@@ -1,4 +1,4 @@
-# INFO
+# Info
 This is an implementation of the OMRON FINS protocol using Labview.
 
 # Examples

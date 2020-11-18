@@ -7,3 +7,4 @@ Key to FINS communication, is identifying Destination Addresses (DA1) and Source
 
 A full list of OMRON FINS Commands can be found in "FINS Commands REFERENCE MANUAL" page 14 (2-1 Command List).
 
+![alt text](http://url/to/img.png)

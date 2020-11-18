@@ -14,6 +14,7 @@ The example 1 (as seen in the image below) defines a means to:
 
 The device (e.g. PLC) will need to be be configure to accept FINS communition.
 Please take note of the FINS node address (SD1)
+In the example, the FINS header is automatically updated with client/server nodes.
 
 ![alt text](https://github.com/jmor2000/LV-OMRON-FINS/blob/main/IMGs/PLC%20FINS%201.JPG?raw=true)
 

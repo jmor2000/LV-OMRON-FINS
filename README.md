@@ -24,6 +24,10 @@ This example can be modified to incorporate a wide range of other FINS commands,
 
 ![alt text](https://github.com/jmor2000/LV-OMRON-FINS/blob/main/IMGs/PLC%20FINS%202.JPG?raw=true)
 
+# Further information on Example 1, can be found:
+- https://github.com/jmor2000/LV-OMRON-FINS/blob/74a2cdd1a7ba7382e7a8ce19f39bc4cab7da1dae/IMGs/Example%201%20more.JPG
+- https://github.com/jmor2000/LV-OMRON-FINS/blob/74a2cdd1a7ba7382e7a8ce19f39bc4cab7da1dae/Documents/Example%201.pdf
+
 # Referencecs:
 - Key to FINS communication, is identifying Destination Addresses (DA1) and Source Addresses (SA1)
 "SYSMAC CS/CJ/CP Series Communications Commands REFERENCE MANUAL" page 36 (3-4-2 Addresses in FINS Commands)
